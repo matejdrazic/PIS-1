@@ -7,6 +7,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Novo");
+            Console.WriteLine("Novije");
         }
     }
 }
+/* Dodan console write line novije. */
