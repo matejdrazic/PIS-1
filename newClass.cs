@@ -6,9 +6,6 @@ namespace ConsoleApp1
 {
     class newClass
     {
-        void metoda()
-        {
-            Console.WriteLine("nova klasa");
-        }
+      
     }
 }
