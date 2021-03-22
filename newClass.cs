@@ -6,6 +6,6 @@ namespace ConsoleApp1
 {
     class newClass
     {
-      
+      // izmjena 123
     }
 }
